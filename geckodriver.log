@@ -1,0 +1,32 @@
+1677253688876	geckodriver	INFO	Listening on 127.0.0.1:62743
+1677254279510	geckodriver	INFO	Listening on 127.0.0.1:62791
+1677254282596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jakob\\AppData\\Local\\Temp\\rust_mozprofilehi6XY6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677254283365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677254283375	Marionette	INFO	Listening on port 62799
+Read port: 62799
+WebDriver BiDi listening on ws://127.0.0.1:62792
+1677254283653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakob\\AppData\\Local\\Temp\\rust_mozprofilehi6XY6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62792/devtools/browser/84ebfe2b-e769-4297-acff-b5d6f20e9e70
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demoblaze.com."
+1677254418209	Marionette	INFO	Stopped listening on port 62799
+Dynamically enable window occlusion 1
+1677258699936	geckodriver	INFO	Listening on 127.0.0.1:50929
+1677258703033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jakob\\AppData\\Local\\Temp\\rust_mozprofile3sjPyQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677258703870	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677258703881	Marionette	INFO	Listening on port 50937
+Read port: 50937
+WebDriver BiDi listening on ws://127.0.0.1:50930
+1677258704128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jakob\\AppData\\Local\\Temp\\rust_mozprofile3sjPyQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50930/devtools/browser/f04cbb6b-4685-425c-906d-0acb8089dd1a
+1677258784162	Marionette	INFO	Stopped listening on port 50937
+Dynamically enable window occlusion 1
